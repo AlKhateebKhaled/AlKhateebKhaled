@@ -2,8 +2,8 @@
 
 #### Table of Contents
 
-- [About Me](#🚀 About Me)
-- [Status Cards](#Status Cards)
+- [About Me](#🚀-About-Me)
+- [Status Cards](#Status-Cards)
 - [Center](#center)
 - [Color](#color)
 
