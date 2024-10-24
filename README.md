@@ -4,8 +4,6 @@
 
 - [About Me](#🚀-About-Me)
 - [Status Cards](#Status-Cards)
-- [Center](#center)
-- [Color](#color)
 
 
 ## 🚀 About Me
