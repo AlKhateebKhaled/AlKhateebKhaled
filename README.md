@@ -1,15 +1,15 @@
 # Hi, I'm Khaled Al-Khateeb! 👋
 
 ## Table of Contents
-- [👨‍💻 About Me](#about-me)
-- [🌍 Find Me](#find-me)
-- [🛠 Tech Stack](#tech-stack)
-- [📊 GitHub Stats](#github-stats)
-- [🔥 GitHub Streak Stats](#github-streak-stats)
-- [🏅 Achievements & Certifications](#achievements-certifications)
+- [👨‍💻 About Me](#-about-me)
+- [🌍 Find Me](#-find-me)
+- [🛠 Tech Stack](#-tech-stack)
+- [📊 GitHub Stats](#-github-stats)
+- [🔥 GitHub Streak Stats](#-github-streak-stats)
+- [🏅 Achievements & Certifications](#-achievements--certifications)
 
 
-##👨‍💻 About Me
+## 👨‍💻 About Me
 Hi, I'm Khaled! I'm a passionate full stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I love building modern, scalable web applications. 
 
 🔭 I’m currently working on an e-commerce platform for football jerseys!  
