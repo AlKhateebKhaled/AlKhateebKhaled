@@ -1,13 +1,13 @@
 # Hi, I'm Khaled Al-Khateeb! 👋
 
 ## Table of Contents
-- [👨‍💻 About Me](#👨‍💻-about-me)
-- [🌍 Find Me](#🌍-find-me)
-- [🛠 Tech Stack](#🛠-tech-stack)
-- [📊 GitHub Stats](#📊-github-stats)
-- [🔥 GitHub Streak Stats](#🔥-github-streak-stats)
-- [🏅 Achievements & Certifications](#🏅-achievements--certifications)
-- [🚧 Current Projects](#🚧-current-projects)
+- [👨‍💻 About Me](#about-me)
+- [🌍 Find Me](#find-me)
+- [🛠 Tech Stack](#tech-stack)
+- [📊 GitHub Stats](#github-stats)
+- [🔥 GitHub Streak Stats](#github-streak-stats)
+- [🏅 Achievements & Certifications](#achievements--certifications)
+- [🚧 Current Projects](#current-projects)
 
 ## 👨‍💻 About Me
 Full stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I love building modern, scalable web applications. 
@@ -17,7 +17,7 @@ Full stack developer specializing in the MERN stack (MongoDB, Express, React, No
 
 ## 🎉 Fun Facts
 - I’m a huge football fan and support **Inter Milan**. ⚽️  
-- When I'm not coding, I love playing video games 🎮, watching series 🎥, and playing football with friends! 🏃‍♂️
+- When I'm not coding, I love playing video games 🎮, watching series 🎥, and playing football with friends! 🏃‍♂️  
 I’m always excited about trying new technology or tools to improve my development workflow! 🚀
 
 ## 🌍 Find Me
