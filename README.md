@@ -1,6 +1,6 @@
 # **👋 Hello, I'm Khaled Al-Khateeb!** 🌟
 
-![Profile Banner](https://files.oaiusercontent.com/file-xkMcbswcIben8QU5ns13txgC?se=2024-10-25T18%3A30%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D9c56ad38-f3a0-4f74-b28f-0cbace2ed5f6.webp&sig=cGwccBGMGKJBr8WDHU5cGfGIrwvdyGpS4oSj7wPcTtg%3D)
+![Profile Banner](https://res.cloudinary.com/drhborpt0/image/upload/v1729885191/DALL_E_2024-10-25_21.26.24_-_A_sleek_and_modern_profile_banner_for_a_GitHub_profile_featuring_a_dark-themed_background_with_subtle_gradients_and_elements_related_to_web_developm_vpv3hx.webp)
 
 ---
 
