@@ -1,80 +1,98 @@
 # Hi, I'm Khaled Al-Khateeb! 👋
 
-## Table of Contents
-- [👨‍💻 About Me](#-about-me)
-- [🌍 Find Me](#-find-me)
-- [🛠 Tech Stack](#-tech-stack)
-- [📊 GitHub Stats](#-github-stats)
-- [🔥 GitHub Streak Stats](#-github-streak-stats)
-- [🏅 Achievements & Certifications](#-achievements--certifications)
-- [🚧 Current Projects](#-current-projects)
+![Profile Banner](https://files.oaiusercontent.com/file-xkMcbswcIben8QU5ns13txgC?se=2024-10-25T18%3A30%3A55Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D9c56ad38-f3a0-4f74-b28f-0cbace2ed5f6.webp&sig=cGwccBGMGKJBr8WDHU5cGfGIrwvdyGpS4oSj7wPcTtg%3D)
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;E-commerce+Platform+Builder;Lifelong+Learner" alt="Typing SVG" />
+</div>
+
+---
 
 ## 👨‍💻 About Me
-Full stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I love building modern, scalable web applications. 
+I am a passionate **Full Stack Developer** specializing in the **MERN** stack (MongoDB, Express, React, Node.js). I love building modern, scalable web applications and continuously exploring new tools and technologies.
 
-🔭 I’m currently working on an e-commerce platform for football jerseys!  
-🌱 I’m learning new JavaScript frameworks and exploring cloud technologies.  
+- 🔭 Currently working on an **e-commerce platform** for football jerseys!  
+- 🌱 Learning advanced **JavaScript frameworks** and diving into **cloud technologies**.  
+- 🎯 Always focused on **improving workflows** and discovering **cutting-edge tech**! 🚀
 
-## 🎉 Fun Facts
-- I’m a huge football fan and support **Inter Milan**. ⚽️  
-- When I'm not coding, I love playing video games 🎮, watching series 🎥, and playing football with friends! 🏃‍♂️  
-I’m always excited about trying new technology or tools to improve my development workflow! 🚀
+---
 
 ## 🌍 Find Me
-<a href="https://www.linkedin.com/in/khaled-al-khateeb-79a792170">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="height: 30px; width: 100px;">
-</a>
-<a href="https://github.com/AlKhateebKhaled">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" style="height: 30px; width: 100px;">
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/khaled-al-khateeb-79a792170" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AlKhateebKhaled" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
+---
 
 ## 📫 How to Reach Me
-- Email: khaled.hkhateeb@gmail.com
 
+- **Email**: [khaled.hkhateeb@gmail.com](mailto:khaled.hkhateeb@gmail.com)
 
+---
 
 ## 🛠 Tech Stack
 
-**Languages:**
-<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=flat&logo=javascript&logoColor=black" style="height: 30px; width: 100px;">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="height: 30px; width: 100px;">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="height: 30px; width: 100px;">
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
 
-**Frontend:**
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" style="height: 30px; width: 100px;">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" style="height: 30px; width: 100px;">
-
-**Backend:**
-<img src="https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=nodedotjs&logoColor=white" style="height: 30px; width: 100px;">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" style="height: 30px; width: 100px;">
-
-**Database:**
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" style="height: 30px; width: 100px;">
-
+---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlKhateebKhaled&layout=compact&theme=radical)
-![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlKhateebKhaled&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlKhateebKhaled&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlKhateebKhaled&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+---
 
 ## 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlKhateebKhaled&theme=default)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=AlKhateebKhaled&theme=radical" alt="GitHub Streak Stats" />
+  </a>
+</div>
+
+---
 
 ## 🏅 Achievements & Certifications
-- Full Stack Developer Bootcamp - Meraki (2024)
+- 🎓 **Full Stack Developer Bootcamp** - Meraki (2024)
+
+---
 
 ## 🚧 Current Projects
 
-### Football Jerseys E-Commerce Platform
+### ⚽ Football Jerseys E-Commerce Platform
 A full-stack e-commerce platform where users can browse and purchase football jerseys.
 
-- **Frontend:** React, Redux, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Features:**
-  - User authentication and authorization
-  - CRUD operations for managing products
-  - API integration for real-time jersey data
-  - Responsive design for mobile and desktop users
+- **Frontend**: React, Redux, Bootstrap  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Features**:
+  - 🧑‍💻 User authentication and authorization
+  - 🛒 CRUD operations for managing products
+  - 🌐 API integration for real-time jersey data
+  - 📱 Responsive design for mobile and desktop users
 
-[View Repository](https://github.com/AlKhateebKhaled/MERAKI_Academy_Project_4.git)
+[🔗 View Repository](https://github.com/AlKhateebKhaled/MERAKI_Academy_Project_4.git)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
