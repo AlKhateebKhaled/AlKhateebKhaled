@@ -16,9 +16,17 @@ Hi, I'm Khaled! I'm a passionate full stack developer specializing in the MERN s
 🌱 I’m learning new JavaScript frameworks and exploring cloud technologies.  
 💬 Ask me about web development, React, Node.js, or any other technology I use!  
 
+## 🎉 Fun Facts
+- I’m a huge football fan and support **Inter Milan**.
+- When I'm not coding, I love playing video games and exploring new tech gadgets.
+
 
 ## 🌍 Find Me
 - [LinkedIn](https://linkedin.com/in/yourname)
+
+## 📫 How to Reach Me
+- Email: khaled@yourdomain.com
+- Twitter: [@khaled](https://twitter.com/yourhandle)
 
 ## 🛠 Tech Stack
 **Languages & Tools:**
@@ -38,3 +46,20 @@ Hi, I'm Khaled! I'm a passionate full stack developer specializing in the MERN s
 
 ## 🏅 Achievements & Certifications
 - Full Stack Developer Bootcamp - Meraki (2024)
+
+![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AlKhateebKhaled)
+
+
+## 🚧 Current Projects
+### Football Jerseys E-Commerce Platform
+A full-stack e-commerce platform where users can browse and purchase football jerseys.
+
+- **Frontend:** React, Redux, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Features:** Authentication, CRUD operations, API integration for real-time jersey data
+
+[View Repository](https://github.com/your-repo-link)
+
+
+
