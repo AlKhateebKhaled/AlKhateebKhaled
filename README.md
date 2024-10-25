@@ -18,9 +18,13 @@ Full stack developer specializing in the MERN stack (MongoDB, Express, React, No
 ## 🎉 Fun Facts
 - I’m a huge football fan and support **Inter Milan**. ⚽️  
 - When I'm not coding, I love playing video games 🎮, watching series 🎥, and playing football with friends! 🏃‍♂️
+- I’m always excited about trying new technology or tools to improve my development workflow.
+
 
 ## 🌍 Find Me
-- [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/khaled-al-khateeb-79a792170?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- [LinkedIn](https://www.linkedin.com/in/khaled-al-khateeb-79a792170)
+- [GitHub](https://github.com/AlKhateebKhaled)
+
 
 ## 📫 How to Reach Me
 - Email: khaled.hkhateeb@gmail.com
@@ -46,15 +50,20 @@ Full stack developer specializing in the MERN stack (MongoDB, Express, React, No
 
 
 ## 🚧 Current Projects
+
 ### Football Jerseys E-Commerce Platform
 A full-stack e-commerce platform where users can browse and purchase football jerseys.
 
 - **Frontend:** React, Redux, Bootstrap
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Features:** Authentication, CRUD operations, API integration for real-time jersey data
+- **Features:**
+  - User authentication and authorization
+  - CRUD operations for managing products
+  - API integration for real-time jersey data
+  - Responsive design for mobile and desktop users
 
-[View Repository]([https://github.com/your-repo-link](https://github.com/AlKhateebKhaled/MERAKI_Academy_Project_4.git))
+[View Repository](https://github.com/AlKhateebKhaled/MERAKI_Academy_Project_4.git)
 
 
 
