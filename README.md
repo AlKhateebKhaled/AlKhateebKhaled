@@ -1,7 +1,7 @@
 # Hi, I'm Khaled Al-Khateeb! 👋
 
 ## Table of Contents
-- [👨‍💻 About Me](#about-me)
+- [👨‍💻 About Me](#-about-me)
 - [🌍 Find Me](#find-me)
 - [🛠 Tech Stack](#tech-stack)
 - [📊 GitHub Stats](#github-stats)
