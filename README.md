@@ -10,7 +10,7 @@
 
 
 ## 👨‍💻 About Me
-Hi, I'm Khaled! I'm a passionate full stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I love building modern, scalable web applications. 
+Hi, I'm Khaled! full stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I love building modern, scalable web applications. 
 
 🔭 I’m currently working on an e-commerce platform for football jerseys!  
 🌱 I’m learning new JavaScript frameworks and exploring cloud technologies.  
