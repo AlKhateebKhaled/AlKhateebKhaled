@@ -21,30 +21,37 @@ Full stack developer specializing in the MERN stack (MongoDB, Express, React, No
 I’m always excited about trying new technology or tools to improve my development workflow! 🚀
 
 ## 🌍 Find Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-al-khateeb-79a792170)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlKhateebKhaled)
+<a href="https://www.linkedin.com/in/khaled-al-khateeb-79a792170">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" style="height: 30px; width: 100px;">
+</a>
+<a href="https://github.com/AlKhateebKhaled">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" style="height: 30px; width: 100px;">
+</a>
 
 
 ## 📫 How to Reach Me
 - Email: khaled.hkhateeb@gmail.com
 
+
+
 ## 🛠 Tech Stack
 
 **Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-FFD43B?style=flat&logo=javascript&logoColor=black" style="height: 30px; width: 100px;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="height: 30px; width: 100px;">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="height: 30px; width: 100px;">
 
 **Frontend:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" style="height: 30px; width: 100px;">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" style="height: 30px; width: 100px;">
 
 **Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+<img src="https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=nodedotjs&logoColor=white" style="height: 30px; width: 100px;">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" style="height: 30px; width: 100px;">
 
 **Database:**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" style="height: 30px; width: 100px;">
+
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlKhateebKhaled&layout=compact&theme=radical)
