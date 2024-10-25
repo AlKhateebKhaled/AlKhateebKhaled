@@ -23,7 +23,7 @@ Full stack developer specializing in the MERN stack (MongoDB, Express, React, No
 - [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/khaled-al-khateeb-79a792170?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ## 📫 How to Reach Me
-- Email: (khaled.hkhateeb@gmail.com)
+- Email: khaled.hkhateeb@gmail.com
 
 ## 🛠 Tech Stack
 **Languages & Tools:**
