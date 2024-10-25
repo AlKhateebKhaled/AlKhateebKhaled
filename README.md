@@ -18,7 +18,7 @@ Full stack developer specializing in the MERN stack (MongoDB, Express, React, No
 ## 🎉 Fun Facts
 - I’m a huge football fan and support **Inter Milan**. ⚽️  
 - When I'm not coding, I love playing video games 🎮, watching series 🎥, and playing football with friends! 🏃‍♂️
-- I’m always excited about trying new technology or tools to improve my development workflow.
+I’m always excited about trying new technology or tools to improve my development workflow! 🚀
 
 
 ## 🌍 Find Me
@@ -30,11 +30,24 @@ Full stack developer specializing in the MERN stack (MongoDB, Express, React, No
 - Email: khaled.hkhateeb@gmail.com
 
 ## 🛠 Tech Stack
-**Languages & Tools:**
 
-- **Frontend:** React, JavaScript (ES6+), Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+**Languages:**
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frontend:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+**Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+
+**Database:**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlKhateebKhaled&layout=compact&theme=radical)
