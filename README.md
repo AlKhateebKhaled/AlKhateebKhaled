@@ -2,11 +2,12 @@
 
 ## Table of Contents
 - [👨‍💻 About Me](#-about-me)
-- [🌍 Find Me](#-find-me)
+- [🌍 Find Me](#find-me)
 - [🛠 Tech Stack](#-tech-stack)
-- [📊 GitHub Stats](#-github-stats)
-- [🔥 GitHub Streak Stats](#-github-streak-stats)
+- [📊 GitHub Stats](#github-stats)
+- [🔥 GitHub Streak Stats](#github-streak-stats)
 - [🏅 Achievements & Certifications](#-achievements--certifications)
+- [🚧 Current Projects](#current-projects)
 
 
 ## 👨‍💻 About Me
