@@ -2,12 +2,12 @@
 
 ## Table of Contents
 - [👨‍💻 About Me](#-about-me)
-- [🌍 Find Me](#find-me)
-- [🛠 Tech Stack](#tech-stack)
-- [📊 GitHub Stats](#github-stats)
-- [🔥 GitHub Streak Stats](#github-streak-stats)
-- [🏅 Achievements & Certifications](#achievements--certifications)
-- [🚧 Current Projects](#current-projects)
+- [🌍 Find Me](#-find-me)
+- [🛠 Tech Stack](#-tech-stack)
+- [📊 GitHub Stats](#-github-stats)
+- [🔥 GitHub Streak Stats](#-github-streak-stats)
+- [🏅 Achievements & Certifications](#-achievements--certifications)
+- [🚧 Current Projects](#-current-projects)
 
 ## 👨‍💻 About Me
 Full stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I love building modern, scalable web applications. 
