@@ -8,7 +8,7 @@
 - [🔥 GitHub Streak Stats](#-🔥-GitHub-Streak-Stats)
 - [🏅 Achievements & Certifications](#-🏅-Achievements-&-Certifications)
 
-## 👨‍💻 About Me
+##👨‍💻 About Me
 Hi, I'm Khaled! I'm a passionate full stack developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I love building modern, scalable web applications. 
 
 🔭 I’m currently working on an e-commerce platform for football jerseys!  
