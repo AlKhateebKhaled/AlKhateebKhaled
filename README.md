@@ -27,7 +27,18 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN** stack (Mo
   <a href="https://github.com/AlKhateebKhaled" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://khaled-alkhateeb-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
 </div>
+
+---
+
+
+## 🌟 **My Portfolio**
+Explore my portfolio showcasing my projects, skills, and experience. 
+
+- 🔗 [Visit My Portfolio](https://your-portfolio-link.netlify.app)
 
 ---
 
