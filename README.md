@@ -104,7 +104,6 @@ Explore my portfolio showcasing my projects, skills, and experience.
 - 🎓 **Full Stack Developer Bootcamp** - Meraki (2024)
 
 ---
-
 ## 🚧 **Current Projects**
 
 ### ⚽ **Football Jerseys E-Commerce Platform**
@@ -119,7 +118,26 @@ An engaging e-commerce platform where users can browse and purchase football jer
   - 🌐 Real-time **API integration** for fetching jersey data.
   - 📱 Fully **responsive design** for an optimal experience across all devices.
 
+[🔗 **View Live Project**](https://forzajerseys.netlify.app)  
 [🔗 **View Repository**](https://github.com/AlKhateebKhaled/MERAKI_Academy_Project_4.git)
+
+---
+
+### 🛒 **E-Commerce Platform – MERAKI Bootcamp Final Project**
+A comprehensive e-commerce platform developed as part of a collaborative team project during the MERAKI Bootcamp.
+
+- **Frontend**: React, Redux, Vite  
+- **Backend**: Node.js, Express.js  
+- **Database**: PostgreSQL  
+- **Features**:
+  - 🔐 **Role-based access**: Admin, Seller, and Customer.
+  - 🛒 **CRUD operations**: Products, categories, and user management.
+  - 🌟 Interactive UI with efficient state management using Redux.
+  - 🔗 Backend API with robust authentication and authorization.
+  - 📋 Collaborative development with Git and Trello.
+
+[🔗 **View Live Project**](https://smartcart-ecommerce.netlify.app)  
+[🔗 **View Repository**](https://github.com/TekTitans/MERAKI_Academy_Project_5.git)
 
 ---
 
