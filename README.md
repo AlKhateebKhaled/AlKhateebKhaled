@@ -136,7 +136,7 @@ A comprehensive e-commerce platform developed as part of a collaborative team pr
   - 🔗 Backend API with robust authentication and authorization.
   - 📋 Collaborative development with Git and Trello.
 
-[🔗 **View Live Project**](https://smartcart-ecommerce.netlify.app)  
+[🔗 **View Live Project**](https://smartcart-tektitans.netlify.app/)  
 [🔗 **View Repository**](https://github.com/TekTitans/MERAKI_Academy_Project_5.git)
 
 ---
